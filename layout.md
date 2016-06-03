@@ -1,6 +1,6 @@
 abstract.md
 introduction.md
 results.md
-Methods_1_500_words__.md
+Methods_1_500_words_Fly__.md
 results_table.md
 figures/figure_1/figure_1.jpg
