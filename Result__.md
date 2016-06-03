@@ -1,1 +1,1 @@
-## Result
+## Methods (1,500 words)
