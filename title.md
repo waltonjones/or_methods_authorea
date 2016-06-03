@@ -1,2 +1,2 @@
-Solubilizing and Immunoprecipitating Insect Olfactory Receptors From Tissues 
+Interactome analysis of the insect olfactory receptor co-receptor (Orco) in adult Drosophila
   
