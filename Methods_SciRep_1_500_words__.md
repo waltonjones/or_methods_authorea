@@ -20,9 +20,12 @@ Sodium dodecyl sulfate or SDS (
 cOmplete™, Mini, EDTA-free Protease Inhibitor Cocktail (Roche 04693159001)
 
 ## Immunoblotting
-For all 10% SDS-polyacrylamide gel was used as suggested by BioRad Mini-PROTEAN Tetra Cell Instruction Manual. 
+For all protein electrophoresis experiments, 10% SDS-polyacrylamide gel was used as suggested by BioRad Mini-PROTEAN Tetra Cell Instruction Manual. 
+
+For all immunoblotting experiments, anti-GFP (ThermoFisher A-11122) was used.
 
 ## Immunoprecipitation
+
 
 ## Mass spectrometry
 
