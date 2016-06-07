@@ -24,7 +24,7 @@ cOmplete™, Mini, EDTA-free Protease Inhibitor Cocktail (Roche 04693159001)
 Total proteins were mixed with 6X Laemmli buffer and, without boiling, loaded to 10% SDS-polyacrylamide gel was used as suggested by BioRad Mini-PROTEAN Tetra Cell Instruction Manual. Segregated proteins were transferred onto the PVDF membrane (Millipore IPVH00010) in the standard Tris-glycine buffer. To detect EGFP on PVDF membranes, anti-GFP (ThermoFisher A-11122) was used, diluted to 20,000X in the standard TBST buffer with 5% skim milk.
 
 ## Immunoprecipitation
-
+GFP-Trap®_A (ChromoTek)
 
 ## Mass spectrometry
 
