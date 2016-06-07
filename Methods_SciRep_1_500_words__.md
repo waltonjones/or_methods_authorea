@@ -20,9 +20,9 @@ Sodium dodecyl sulfate or SDS (
 cOmplete™, Mini, EDTA-free Protease Inhibitor Cocktail (Roche 04693159001)
 
 ## Immunoblotting
-For all protein electrophoresis experiments, 10% SDS-polyacrylamide gel was used as suggested by BioRad Mini-PROTEAN Tetra Cell Instruction Manual. 
+Total proteins were mixed with 6X Laemmli buffer and loaded to 10% SDS-polyacrylamide gel was used as suggested by BioRad Mini-PROTEAN Tetra Cell Instruction Manual without boiling. Segregated proteins were transferred onto the PVDF membrane (Millipore IPVH00010) in the standard Tris-glycine buffer.
 
-For all immunoblotting experiments, anti-GFP (ThermoFisher A-11122) was used.
+To detect EGFP, anti-GFP (ThermoFisher A-11122) was used in the standard TBST buffer with 5% skim milk.
 
 ## Immunoprecipitation
 
