@@ -46,10 +46,10 @@
 * Orco IP-MS was successful
 * Three separate samples were run: two biological replicates, one of them being a set of technical replicates
 * This is the list of proteins chosen to be verified
-* Surprisingly, a lot of the high-ranking proteins are mitochondrial proteins
+* Only a few ORs were detected
+* Surprisingly, a lot of the high-ranking proteins are mitochondrial 
 * Recently, novel roles of mitochondria in mammalian OSNs were published and we think it could be the reason \cite{Fluegge_2012}
 * Many cytochrome P450s, previously suggested to degrade pheromones, were also detected \cite{Younus_2014}
-* A few G protein alpha subunits were detected
 
 ### Electrophysiology - biological verification 1 
 [Figure 4]
