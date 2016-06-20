@@ -1,11 +1,11 @@
 # Results
 
 ### Figure 1: Overview
-
-* Orco and other ORs could not be immunoblotted by working immunohistochemistry antibodies recognizing the native proteins (data not shown)
-* Thus we decided to use the N-ternimal EGFP-tagged version of Orco and detect the protein with GFP antibodies
+* Overview diagram of the entire procedure
 
 ### Figure 2: Tissue homogenization and protein solubilization
+* Orco and other ORs could not be immunoblotted by working immunohistochemistry antibodies recognizing the native proteins (data not shown)
+* Thus we decided to use the N-ternimal EGFP-tagged version of Orco and detect the protein with GFP antibodies
 [Figure 2 (a)]
 * The first step was to concentrate Orco-expressing tissues
 * We used home-made sieve to collect antenna-sized tissues from frozen adult flies
