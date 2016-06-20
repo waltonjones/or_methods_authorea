@@ -1,7 +1,2 @@
-A central problem in convex algebra is the extension of left-smooth
-functions. Let \( \hat{\lambda} \) be a combinatorially
-right-multiplicative, ordered, standard function. We show that
-\( {\mathfrak{{\ell}}_{I,\Lambda}} \ni {\mathcal{{Y}}}_{\mathbf{{u}},\mathfrak{{v}}} \) 
-and that there exists a Taylor and positive definite sub-algebraically
-projective triangle. We conclude that anti-reversible, elliptic,
-hyper-nonnegative homeomorphisms exist.
+# Abstract
+Insects have the greatest diversity and compose the most biomass of all known animals. Inevitably, changes of their behavior affect the life of others, including humans. Olfaction is one of the major sensory inputs changing insect behavior, along with vision. 
