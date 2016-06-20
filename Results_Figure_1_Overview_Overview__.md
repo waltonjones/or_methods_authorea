@@ -20,7 +20,7 @@
 * The most dramatic improvement happened with DDM, the best mass-spec compatible detergent
 
 [Figure 2 (c)] - OR and GR are also better solubilized with the Orco protocol
-* Other 7TM-proteins with EGFP tags were tested to see if the phenomenon in [Figure 2] can be considered as general
+* Other 7TM-proteins with EGFP tags were tested to see if the phenomenon in (b) can be considered as general
 * Wax would have hardened with all the hydrophobic molecules in low temperature
 
 ### Figure 3: Immunoprecipitation
