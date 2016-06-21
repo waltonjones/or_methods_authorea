@@ -7,7 +7,7 @@
 * Orco and other ORs could not be immunoblotted by working immunohistochemistry antibodies recognizing the native proteins (data not shown)
 * Thus we decided to use the N-ternimal EGFP-tagged version of Orco and detect the protein with GFP antibodies
 
-[Figure 2 (a)] - tissue concentration
+[Figure 2 (a)] - tissue concentration >>SDS<<
 * The first step was to concentrate Orco-expressing tissues
 * We used home-made sieve to collect antenna-sized tissues from frozen adult flies
 * Because Orco is only expressed exclusively in the olfactory organs, this step was critical to increase the concentration of the desired protein in the solution
@@ -18,8 +18,9 @@
 * The desired protein tended to be trapped with the tissue debris
 * Performing homogenization in room temperature fully liberated trapped Orco from the tissues
 * The most dramatic improvement happened with DDM, the best mass-spec compatible detergent
+* We decided to use DDM for IP-MS
 
-[Figure 2 (c)] - OR and GR are also better solubilized with the Orco protocol
+[Figure 2 (c)] - OR and GR are also better solubilized with the Orco protocol >>NP40<<
 * Other 7TM-proteins with EGFP tags were tested to see if the phenomenon in (b) can be considered as general
 * Wax would have hardened with all the hydrophobic molecules in low temperature
 
@@ -42,10 +43,10 @@
 * To overcome the tight interaction between EGFP and the beads, we tried to increase the amount of elution time
 * 1 hr seemed to be giving the best result
 * Problem 1: We observed the disappearance of EGFP::Orco for longer incubation in urea elution buffer
+* We also found that even in -80'C, EGFP::Orco disappears over time in urea elution buffer ((S1))
+* It seems like urea does not provide a favorable environment to EGFP::Orco
 * Problem 2: Immediate mass spec after 1-h urea elution gave the result with very little amount of Orco protein
 * We decided to perform on-bead digestion
-
-[Figure 3 (e)] - urea is not a favorable environment to Orco (suppl.?)
 
 ### Table 1: Mass spectrometry and protein identification 
 [Table 1] - list of proteins chosen to be tested
