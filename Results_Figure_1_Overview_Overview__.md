@@ -33,14 +33,19 @@
 * ???> However, in the IP products, the tag proteins were captured in similar amounts
 
 [Figure 3 (c)] - conventional elution methods do not work
-* The usual urea elution for mass spec experiments was not efficient
+* The usual urea elution for mass spec experiments was not efficiently eluting the bound proteins
 * Alternative acid elution was not efficient either
-* Alternative elution by boiling gave the best result
+* Alternative thermal elution by boiling in SDS buffer gave the best result
 * We assume that the interaction between the tag proteins and the beads is extremely tight 
 
-[Figure 3 (d)] - urea is not a favorable environment to Orco (suppl.?)
-* Urea elution was not just inefficient but also was very unstable environment to the desired protein species
-* So instead of boiling, we decided to perform on-bead digestion
+[Figure 3 (d)] - elution kinetics
+* To overcome the tight interaction between EGFP and the beads, we tried to increase the amount of elution time
+* 1 hr seemed to be giving the best result
+* Problem 1: We observed the disappearance of EGFP::Orco for longer incubation in urea elution buffer
+* Problem 2: Immediate mass spec after 1-h urea elution gave the result with very little amount of Orco protein
+* We decided to perform on-bead digestion
+
+[Figure 3 (e)] - urea is not a favorable environment to Orco (suppl.?)
 
 ### Table 1: Mass spectrometry and protein identification 
 [Table 1] - list of proteins chosen to be tested
