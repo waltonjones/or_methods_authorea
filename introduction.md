@@ -8,5 +8,6 @@
 * Reliable genetic evidence has been accumulated for how Orco functions
 * However, its cellular mechanisms for localization and signal transduction are still obscure
 * To explore the unknowns, we performed IP-MS with Orco in adult Drosophila
+* Our aim was to isolate and identify Orco-interacting proteins from the native tissues
 * Here we present a technical advance and two sets of biological verifications to help speculate the protein-protein interactions of Orco
 
