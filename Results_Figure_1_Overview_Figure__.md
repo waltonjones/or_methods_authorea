@@ -18,3 +18,4 @@ To perform IP-MS, we prepared a control fly line expressing membrane-tethered (m
 
 
 # Verification of the MS-identified proteins
+Hmm -_-
