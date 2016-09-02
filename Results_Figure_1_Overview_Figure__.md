@@ -15,8 +15,9 @@ To perform IP-MS, we prepared a control fly line expressing membrane-tethered (m
 
 # Mass spectrometry and protein identification
 (Eugene) Table 1.
+A few representative interactions from the selected 29 proteins were confirmed by western blotting (Fig. 4).
 
 # Verification of the MS-identified proteins
-A list proteins with 10 or higher experimental-to-control iBAQ ratio was picked out and then ranked with their MS/MS values. We chose to work with the top 29 proteins (Rank 21, Cyt-b, had no publicly available fly line) from the list to check the knock-down effects in vivo. A few representative interactions from the selected 30 proteins were confirmed by western blotting (Fig. 4). 
+Proteins with 10 or higher experimental-to-control iBAQ ratio was picked out and then ranked with their MS/MS values. We chose to work with the top 29 proteins (Rank 21, Cyt-b, had no publicly available fly line) from the list to check the knock-down effects in vivo.  
 
-Out of the 29 proteins, eight showed 
+Each protein was knocked down in Orco-positive cells, and any changes of neuronal activities from the antennal basiconic 2 (ab2) were checked by live-animal electrophysiology. Odor-evoked activities within a ?-second interval and the spontaneous activities were recorded. Out of the 29 tested RNAi, none showed increased odor-evoked activities, eight showed decreased odor-evoked activities, and 21 showed no changes (Fig. 5). 
