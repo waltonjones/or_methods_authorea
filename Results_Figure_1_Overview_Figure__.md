@@ -1,4 +1,4 @@
-# Results
+# Results (Sci. Rep. 4,500 words)
 ### Figure 1: Overview
 ### Figure 2: Tissue enrichment, protein solubilization, and immunoprecipitation
 ### Table 1: IP-MS top 30
