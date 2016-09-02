@@ -17,4 +17,4 @@ To perform IP-MS, we prepared a control fly line expressing membrane-tethered (m
 (Eugene)
 
 # Verification of the MS-identified proteins
-A list proteins with 10 or higher iBAQ ratio was picked out and then ranked with their MS/MS values. We chose to work with the top 30 proteins from the list to check the knock-down effects in vivo.   A few representative interactions from the IP-MS result were confirmed by western blotting (Fig. 4). 
+A list proteins with 10 or higher iBAQ ratio was picked out and then ranked with their MS/MS values. We chose to work with the top 30 proteins from the list to check the knock-down effects in vivo.  A few representative interactions from the selected proteins were confirmed by western blotting (Fig. 4). 
