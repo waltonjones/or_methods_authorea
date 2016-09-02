@@ -18,6 +18,8 @@ To perform IP-MS, we prepared a control fly line expressing membrane-tethered (m
 A few representative interactions from the selected 29 proteins were confirmed by western blotting (Fig. 4).
 
 # Verification of the MS-identified proteins
-Proteins with 10 or higher experimental-to-control iBAQ ratio was picked out and then ranked with their MS/MS values. We chose to work with the top 29 proteins (Rank 21, Cyt-b, had no publicly available fly line) from the list to check the knock-down effects in vivo.  
+Proteins with 10 or higher experimental-to-control iBAQ ratio was picked out and then ranked by their MS/MS values. We chose to work with the top 29 proteins (Cyt-b ranked at 21 was skipped because it had no publicly available fly line) from the list to check the knock-down effects in vivo.  
 
-Each protein was knocked down in Orco-positive cells, and any changes of neuronal activities from the antennal basiconic 2 (ab2) were checked by live-animal electrophysiology. Odor-evoked activities within a ?-second interval and the spontaneous activities were recorded. Out of the 29 tested RNAi, none showed increased odor-evoked activities, eight showed decreased odor-evoked activities, and 21 showed no changes (Fig. 5). 
+Each protein was knocked down in Orco-positive cells, and any changes of neuronal activities from the antennal basiconic 2 (ab2) were checked by live-animal electrophysiology. Odor-evoked activities within a ?-second interval and the spontaneous activities were recorded from 12-days-old male and female. Out of the 29 tested RNAi, none showed increased odor-evoked activities, eight showed decreased odor-evoked activities (Fig. 5), and 21 showed no changes (Supplementary Fig. ?). 
+
+To check if the decrease in the odor-evoked responses was caused by mislocalization or underexpression of Orco, antennal tissues were stained with the custom-made Orco antibody (See Methods). Out of eight tested RNAi, 
