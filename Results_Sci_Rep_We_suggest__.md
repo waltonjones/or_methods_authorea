@@ -1,20 +1,20 @@
 # Results (Sci. Rep.)
 We suggest that for Articles with less than 2,000 words, no more than 4 figures/tables should be included. Please note that schemes are not used and should be presented as figures.
-
+``
 
 ## Figure 1: Tissue enrichment, protein expression, and immunoprecipitation
 ## Table 1: IP-MS top 30
 ## Figure 2: Immunoprecipitation-immunoblotting
 ## Figure 3: The effect of RNAi on the odor-evoked activities (only ones with change)
 ## Figure 4: Decreased spontaneous activity in Rab5-RNAi and immunohistochemistry of Rab5-RNAi
-
+``
 
 ### S1: Overview of the procedure
 ### S2: EGFP::Orco solubilization in various laboratory detergents
 ### S3: Temperature-sensitive change in solubility in EGFP::Or47a and EGFP::Gr21a
 ### STable1: List of 207 selected proteins (iBAQ ratio over 10)
 ### S4: The effect of RNAi on the odor-evoked activities (without change)
-
+``
 
 # Tissue enrichment, protein solubilization, and co-immunoprecipitation
 Antibodies against Orco and several ORs had been tested on western blotting, but all tested antibodies failed to detect the desired protein. To solve the detection problem, we decided to use the EGFP-tagged version of Orco for the following experiments (Supplementary Fig. S1).
