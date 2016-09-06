@@ -1,4 +1,4 @@
-# Results (Sci. Rep.)
+# Results (Sci. Rep. 4,500 words)
 We suggest that for Articles with less than 2,000 words, no more than 4 figures/tables should be included. Please note that schemes are not used and should be presented as figures.
 ``
 
