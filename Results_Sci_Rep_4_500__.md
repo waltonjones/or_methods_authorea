@@ -6,7 +6,7 @@ We suggest that for Articles with less than 2,000 words, no more than 4 figures/
 ## Table 1: IP-MS top 30
 ## Figure 2: Immunoprecipitation-immunoblotting
 ## Figure 3: The effect of RNAi on the odor-evoked activities (ones with change)
-## Figure 4: Decreased spontaneous activity and immunohistochemistry (ones with change
+## Figure 4: Decreased spontaneous activity and immunohistochemistry (ones with change)
 ``
 
 ### S1: Overview of the procedure
@@ -14,6 +14,7 @@ We suggest that for Articles with less than 2,000 words, no more than 4 figures/
 ### S3: Temperature-sensitive change in solubility is also shown with EGFP::Or47a and EGFP::Gr21a
 ### STable1: List of 207 selected proteins (iBAQ ratio over 10)
 ### S4: The effect of RNAi on the odor-evoked activities (without change)
+### S5: The effect of RNAi on the spontaneous activities (without change)
 ``
 
 # Tissue enrichment, protein solubilization, and co-immunoprecipitation
