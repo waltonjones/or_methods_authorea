@@ -5,13 +5,13 @@ We suggest that for Articles with less than 2,000 words, no more than 4 figures/
 ## Figure 1: Tissue enrichment, protein expression, and immunoprecipitation
 ## Table 1: IP-MS top 30
 ## Figure 2: Immunoprecipitation-immunoblotting
-## Figure 3: The effect of RNAi on the odor-evoked activities (only ones with change)
-## Figure 4: Decreased spontaneous activity in Rab5-RNAi and immunohistochemistry of Rab5-RNAi
+## Figure 3: The effect of RNAi on the odor-evoked activities (ones with change)
+## Figure 4: Decreased spontaneous activity and immunohistochemistry (ones with change
 ``
 
 ### S1: Overview of the procedure
 ### S2: EGFP::Orco solubilization in various laboratory detergents
-### S3: Temperature-sensitive change in solubility in EGFP::Or47a and EGFP::Gr21a
+### S3: Temperature-sensitive change in solubility is also shown with EGFP::Or47a and EGFP::Gr21a
 ### STable1: List of 207 selected proteins (iBAQ ratio over 10)
 ### S4: The effect of RNAi on the odor-evoked activities (without change)
 ``
@@ -25,11 +25,11 @@ To perform IP-MS, we prepared a control fly line expressing membrane-tethered (m
 
 # Mass spectrometry and protein identification
 (Eugene) Table 1.
-A few representative interactions from the selected 29 proteins were confirmed by western blotting (Fig. 3).
+A few representative interactions from the selected 29 proteins were confirmed by western blotting (Fig. 2).
 
 # Verification of the MS-identified proteins
 Proteins with 10 or higher experimental-to-control iBAQ ratio was picked out and then ranked by their MS/MS values. We chose to work with the top 29 proteins (Cyt-b ranked at 21 was skipped because it had no publicly available fly line) from the list to check the knock-down effects in vivo.  
 
-Each protein was knocked down in Orco-positive cells, and any changes of neuronal activities from the antennal basiconic 2 (ab2) were checked by live-animal electrophysiology. Odor-evoked activities within a ?-second interval and the spontaneous activities were recorded from 12-days-old male and female. Out of the 29 tested RNAi, none showed increased odor-evoked activities, eight showed decreased odor-evoked activities (Fig. 4A), ? showed changes in the spontaneous activities (Fig. 4B), and 21 showed no changes (Supplementary Fig. ?). 
+Each protein was knocked down in Orco-positive cells, and any changes of neuronal activities from the antennal basiconic 2 (ab2) were checked by live-animal electrophysiology. Odor-evoked activities within a ?-second interval and the spontaneous activities were recorded from 12-days-old male and female. Out of the 29 tested RNAi, none showed increased odor-evoked activities, eight showed decreased odor-evoked activities (Fig. 3A), ? showed changes in the spontaneous activities (Fig. 4A), and 21 showed no changes (Supplementary Fig. ?). 
 
-To check if the decrease in the odor-evoked responses was caused by mislocalization or underexpression of Orco, antennal tissues of the RNAi flies were stained with the custom-made Orco antibody (See Methods). Out of eight tested RNAi, ? showed dramatic mislocalization (Fig. 5A), ? showed (Fig. 5B), and ? showed no obvious changes compared to the control lines (Supplementary Fig. ?).
+To check if the decrease in the odor-evoked responses was caused by mislocalization or underexpression of Orco, antennal tissues of the RNAi flies with decreased spontaneous activities were stained with the custom-made Orco antibody. Out of three tested RNAi, ? showed dramatic mislocalization (Fig. 4B), ? showed ? (Fig. 4C), and ? showed no obvious changes compared to the control lines (Supplementary Fig. ?).
