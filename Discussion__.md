@@ -1,1 +1,3 @@
-#Discussion 
+# Discussion
+
+The physiology of insect OSNs is well explained by sound evidence from many functional studies \cite{}. However, understanding the molecular biology aspects have been relatively weak; for 17 years from the discovery of the insect ORs in 1999 \cite{}, not a single protein binding partner of the OR family (including Orco), except homo- and hetero-multimerization among themselves \cite{Benton_2006}, has been reported. To open up our view to the molecular mechanisms of OSNs, we performed an interactome analysis of Orco in adult Drosophila using IP-MS coupled with electrophysiology.
