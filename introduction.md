@@ -1,8 +1,8 @@
 # Introduction
-
-\cite{Hildebrand_1997}
-\cite{Kaupp_2010}
-
-
-\cite{Mathew_2013}
-\cite{Su_2009}
+### Reviews
+* across phyla: \cite{Hildebrand_1997}
+* nematodes and insects: \cite{Garrity_2010}
+* mammals and insects: \cite{Su_2009}
+* vertebrates and insects, proteins: \cite{Kaupp_2010}
+### Original research
+* \cite{Mathew_2013}
