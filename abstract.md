@@ -1,5 +1,6 @@
 # Memo
 ## First author’s note
+* The target journal is Scientific Reports.
 * I want to emphasize that this paper is about a “multidisciplinary" method for “rapid" discoveries of novel binding partners. Electrophysiology is used as a tool to verify the IP-MS result because just one RNAi lines have been recorded for each protein candidate. No follow-up IHC images will be included.
 * I'm not comfortable refering the IP-MS result as an “interactome” because we are not presenting any figure looking like an interaction network. Besides, I think our IP-MS was not refined enough to say that the result is close to the actual interactome.
 * “Biochemistry” and “molecular biology” are used differently in this manuscript. “Biochemistry” was used for experiments that scrutinized molecules at the amino acid and/or functional group (organic chemistry) level. “Molecular biology/physiology” was used mainly to indicate domain-domain and/or protein-protein interactions.
