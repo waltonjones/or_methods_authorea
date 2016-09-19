@@ -1,2 +1,25 @@
-# Abstract (186/200)
-In animals, the odor space in the environment is perceived by the olfactory system. At the very beginning of odor perception, odorant receptors (ORs) that recognize airborne chemicals, which in turn promotes olfactory sensory neuron (OSN) firing. A general molecular mechanism of ORs is the G protein-coupled receptor (GPCR) signaling, which is well conserved across phyla. Interestingly, apart from the norm, insects express a distinct family of ORs in their OSNs. Insect ORs have shown unexpected characteristics in which they are partially analogous to but rather different from GPCRs. Emerging from this Janus identity, as well as the lack of information on protein-protein interactions, the conclusive nature of the insect OR family is still obscure. To facilitate clearer understanding, we came up with a multidisciplinary method for rapid discoveries of potential binding partners of the insect OR family proteins. The dataset presented here baited Orco to capture proteins from the native tissue lysate, analyzed prey proteins with mass spectrometry, and verified binding with RNAi-electrophysiology in vivo. Our result provides a promising resource for further studies and ensures the possibility for the broad application of the method.
+# Memo
+## First author’s note:
+* I want to emphasize that this paper is about a “multidisciplinary" method for “rapid" discoveries of novel binding partners. Electrophysiology is used as a tool to verify the IP-MS result because just one RNAi lines have been recorded for each protein candidate. No follow-up IHC images will be included.
+* I'm not comfortable refering the IP-MS result as an “interactome” because we are not presenting any figure looking like an interaction network. Besides, I think our IP-MS was not refined enough to say that the result is close to the actual interactome.
+* “Biochemistry” and “molecular biology” are used differently in this manuscript. “Biochemistry” was used for experiments that scrutinized molecules at the amino acid and/or functional group (organic chemistry) level. “Molecular biology/physiology” was used mainly to indicate domain-domain and/or protein-protein interactions.
+
+## Citation note (personal)
+
+### Reviews
+* across phyla: \cite{Hildebrand_1997}
+* across phyla, more extensive: \cite{Ache_2005}
+* nematodes and insects: \cite{Garrity_2010}
+* mammals and insects, neurons and circuits: \cite{Su_2009}
+* vertebrates and insects, genes and proteins: \cite{Kaupp_2010}
+* vertebrates and insects, genetic evolution: \cite{Nei_2008}
+* dOR nomenclature: \cite{2000}
+
+### Original research
+* mOR discovery: \cite{Buck_1991}
+* dOR discovery: \cite{Vosshall_1999} \cite{Clyne_1999} \cite{Gao_1999}
+* dOR genetics, 60-genes 62-proteins: \cite{Robertson_2003}
+* dOR genetics, complete map: \cite{Couto_2005}
+* dOR odor coding, 24 antennal ORs: \cite{Hallem_2006}
+* larval OR expression: \cite{Fishilevich_2005}
+* 19 larval-OR deorphanization: \cite{Mathew_2013}
