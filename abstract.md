@@ -22,7 +22,7 @@
 * dOR discovery: \cite{Vosshall_1999} \cite{Clyne_1999} \cite{Gao_1999}
 * dOR genetics, 60-genes 62-proteins: \cite{Robertson_2003}
 * dOR genetics, complete map: \cite{Couto_2005}
-* ephys, mpalp (no DOI): J Neurosci. 1999 Jun 1;19(11):4520-32. Odor coding in a model olfactory organ: the Drosophila maxillary palp. de Bruyne M(1), Clyne PJ, Carlson JR.
+* ephys, mpalps (no DOI): J Neurosci. 1999 Jun 1;19(11):4520-32. Odor coding in a model olfactory organ: the Drosophila maxillary palp. de Bruyne M(1), Clyne PJ, Carlson JR.
 * ephys, antenna: \cite{de_Bruyne_2001}
 * ephys, empty neuron: \cite{Dobritsa_2003} \cite{Hallem_2004}
 * ephys, antennal ORs, 24: \cite{Hallem_2006}
