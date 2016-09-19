@@ -8,4 +8,5 @@
 
 ### Original research
 * mOR discovery: \cite{Buck_1991}
+* dOR discovery: \cite{Vosshall_1999} \cite{Clyne_1999} \cite{Gao_1999}
 * 19 larval ORs: \cite{Mathew_2013}
