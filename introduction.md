@@ -7,5 +7,5 @@
 * vertebrates and insects, genetic evolution: \cite{Nei_2008}
 
 ### Original research
-* mmOR discovery: \cite{Buck_1991}
+* mOR discovery: \cite{Buck_1991}
 * 19 larval ORs: \cite{Mathew_2013}
