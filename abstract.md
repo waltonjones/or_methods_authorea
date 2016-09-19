@@ -25,3 +25,5 @@
 * dOR odor coding, 24 antennal ORs: \cite{Hallem_2006}
 * larval OR expression: \cite{Fishilevich_2005}
 * 19 larval-OR deorphanization: \cite{Mathew_2013}
+* Orco characterization: \cite{Larsson_2004} \cite{Benton_2006}
+* Orco topology: \cite{Benton_2006} \cite{Lundin_2007} \cite{Smart_2008}
