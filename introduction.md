@@ -1,4 +1,4 @@
-# Introduction
+# Citation (memo)
 ### Reviews
 * across phyla: \cite{Hildebrand_1997}
 * nematodes and insects: \cite{Garrity_2010}
@@ -8,4 +8,4 @@
 
 ### Original research
 * mmOR discovery: \cite{Buck_1991}
-* \cite{Mathew_2013}
+* 19 larval ORs: \cite{Mathew_2013}
