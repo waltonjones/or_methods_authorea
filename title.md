@@ -1,2 +1,2 @@
-Interactome analysis of the olfactory receptor co-receptor (Orco) in adult Drosophila
+Protein-protein interaction analysis of Orco in adult Drosophila
   
