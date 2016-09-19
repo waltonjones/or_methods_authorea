@@ -12,5 +12,7 @@
 * mOR discovery: \cite{Buck_1991}
 * dOR discovery: \cite{Vosshall_1999} \cite{Clyne_1999} \cite{Gao_1999}
 * dOR genetics, 60-genes 62-proteins: \cite{Robertson_2003}
+* dOR genetics, complete map: \cite{Couto_2005}
+* dOR odor coding, 24 antennal ORs: \cite{Hallem_2006}
 * larval OR expression: \cite{Fishilevich_2005}
 * 19 larval-OR deorphanization: \cite{Mathew_2013}
