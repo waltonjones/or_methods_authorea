@@ -5,6 +5,7 @@
 * mammals and insects, neurons and circuits: \cite{Su_2009}
 * vertebrates and insects, genes and proteins: \cite{Kaupp_2010}
 * vertebrates and insects, genetic evolution: \cite{Nei_2008}
+* dOR nomenclature: \cite{2000}
 
 ### Original research
 * mOR discovery: \cite{Buck_1991}
