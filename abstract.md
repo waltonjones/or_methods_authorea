@@ -15,6 +15,7 @@
 * vertebrates and insects, genes and proteins: \cite{Kaupp_2010}
 * vertebrates and insects, genetic evolution: \cite{Nei_2008}
 * dOR nomenclature: \cite{2000}
+* controversy and consensus, OR molecular mechanism: \cite{Nakagawa_2009}
 
 ### Original research
 * mOR discovery: \cite{Buck_1991}
