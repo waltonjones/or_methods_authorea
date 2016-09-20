@@ -71,7 +71,7 @@
 * OR and Orco functional change by calmodulin-binding cite mutation in mammalian cells: \cite{Mukunda_2014}
 * OR sensitization by calmodulin: \cite{Mukunda_2016}
 * BmOR-Orco (moth) and OR-Orco channel pore suggested [oocyte, in vivo]: \cite{Nakagawa_2012}
-* **Below is Orco**
+* **Below about Orco**
 * Orco characterization, first [in vivo]: \cite{Larsson_2004}
 * Orco characterization, functional conservation [in vivo]: \cite{Jones_2005}
 * Orco characterization, domains, dimerization [in vivo]: \cite{Benton_2006}
