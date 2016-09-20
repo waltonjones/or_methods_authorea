@@ -17,7 +17,7 @@
 * vertebrates and insects, genetic evolution: \cite{Nei_2008}
 * Orco, receptor or channel?: \cite{Wicher_2009}
 * controversy and consensus, OR molecular mechanism: \cite{Nakagawa_2009}
-* functional evolution of chemoreceptors by Wicher: \cite{Wicher_2012} 
+* functional evolution of chemoreceptors by Wicher: \cite{Wicher_2012}
 
 ### ? What is this
 * dOR nomenclature: \cite{2000}
@@ -34,33 +34,44 @@
 * adult OR, antenna: \cite{de_Bruyne_2001}
 * adult OR, empty neuron: \cite{Dobritsa_2003} \cite{Hallem_2004}
 * adult OR, antennal ORs, 24 recorded: \cite{Hallem_2006}
+* adult OR, temporal response dynamics of OSNs: http://dx.doi.org/10.3389/fncel.2012.00054 근데 이걸 뭐하러 또 체크한거지…?
 * larval OR, expression: \cite{Fishilevich_2005}
 * larval OR, 19 recorded: \cite{Mathew_2013}
 * what the hell is this... improving SSR via microinjection?: \cite{Olsson_2011}
 
 ### Original research part 3 - studies in heterologous systems for G protein involvement
 * odor-evoked ionotropism observed: \cite{Sato_2008} \cite{Wicher_2008}
-* odor-evked metabotropism observed: 
-* metabotropism involved in regulation:
+* odor-evked metabotropism observed: \cite{Wicher_2008}
+* PKC involved in Orco activity regulation: \cite{Sargsyan_2011}
 
 ### Original research part 4 - G protein involvement implications (old) and follow-up studies
 * pro (old), :
-* pro, in vivo Gaq mutants: \cite{Kain_2008}
-* con (old), first suggested: \cite{Benton_2006} 
-* con (old), in silico sequence analysis far from GPCRs: \cite{Wistrand_2006} 
-* con, drug inhibition test: \cite{Smart_2008} 
+* pro, Gaq mutants in vivo: \cite{Kain_2008}
+* pro, increase of PKC activity upon odor stimulation in vivo: 10.1242/jeb.143396
+
+* pro, Orco phosphorylated by PKC in vitro: \cite{Sargsyan_2011}
+* pro, Orco-PKC mutants show behavioral defects: doi: 10.1242/jeb.143396
+* pro, odor-induced cAMP production in vivo: 10.1242/jeb.137901
+* con (old), first suggested: \cite{Benton_2006}
+* con (old), in silico sequence analysis far from GPCRs: \cite{Wistrand_2006}
+* con, drug inhibition test: \cite{Smart_2008}
 * con, no to other OSNs but yes to ab1C: \cite{Yao_2010}
 * con, in silico protein structure far from GPCRs: \cite{Hopf_2015}
-* reconciliation?: \cite{Sargsyan_2011}
+* reconciliation? metabotropic autoregulation of Orco sensitizes ORs: http://dx.doi.org/10.1371/journal.pone.0058889
 
 ### Original research part 5 - protein-level analyses
 * dOR heterodi(or multi)merization, BRET: \cite{Neuhaus_2004}
 * dOR heterodi(or multi)merization, BiFC: \cite{Benton_2006}
 * dOR topology: \cite{Benton_2006}
 * dOR de novo modeling: \cite{Hopf_2015}
-* Orco characterization, first: \cite{Larsson_2004} 
+* dOR and Orco functional change by calmodulin-binding cite mutation in mammalian cells: http://dx.doi.org/10.1016/j.ceca.2014.02.013
+* dOR sensitization by calmodulin: http://dx.doi.org/10.3389/fncel.2016.00028
+* Orco characterization, first: \cite{Larsson_2004}
 * Orco characterization, functional conservation: \cite{Jones_2005}
 * Orco characterization, domains: \cite{Benton_2006}
+* Orco dimerization, in vivo: \cite{Benton_2006}
+* Orco synthetic dimer functional study in mammalian cells: http://dx.doi.org/10.3389/fncel.2014.00261
 * Orco topology: \cite{Benton_2006} \cite{Lundin_2007} \cite{Smart_2008}
 * Orco phosphorylation by PKC: \cite{Sargsyan_2011}
 * moth Orco not involved in ionotropism...?: \cite{Nolte_2013}
+* mammalian RTP1S and dSNMP1 similarly enhance Orco expression in mammalian cells: http://dx.doi.org/10.1016/j.jneumeth.2016.07.005
