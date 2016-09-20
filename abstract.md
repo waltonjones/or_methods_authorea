@@ -7,7 +7,7 @@
 
 ## Citation notes (personal)
 
-### Reviews
+### Reviews on olfactory systems
 * across phyla: \cite{Hildebrand_1997}
 * across phyla, more extensive: \cite{Ache_2005}
 * multigene family evolution: \cite{Benton_2015}
@@ -17,6 +17,7 @@
 * vertebrates and insects, genetic evolution: \cite{Nei_2008}
 * Orco, receptor or channel?: \cite{Wicher_2009}
 * controversy and consensus, OR molecular mechanism: \cite{Nakagawa_2009}
+* functional evolution of chemoreceptors by Wicher: \cite{Wicher_2012} 
 
 ### ? What is this
 * dOR nomenclature: \cite{2000}
@@ -35,29 +36,31 @@
 * adult OR, antennal ORs, 24 recorded: \cite{Hallem_2006}
 * larval OR, expression: \cite{Fishilevich_2005}
 * larval OR, 19 recorded: \cite{Mathew_2013}
+* what the hell is this... improving SSR via microinjection?: \cite{Olsson_2011}
 
-### Original research part 3 - heterologous studies
+### Original research part 3 - studies in heterologous systems for G protein involvement
 * odor-evoked ionotropism observed: \cite{Sato_2008} \cite{Wicher_2008}
-* metabotropism observed: 
-* 
+* odor-evked metabotropism observed: 
+* metabotropism involved in regulation:
 
-### Original research part 4 - protein-level analyses
-* OR heterodi(or multi)merization, BRET: \cite{Neuhaus_2004}
-* OR heterodi(or multi)merization, BiFC: \cite{Benton_2006}
-* OR topology: \cite{Benton_2006}
-* OR de novo modeling: \cite{Hopf_2015}
+### Original research part 4 - G protein involvement implications (old) and follow-up studies
+* pro (old), :
+* pro, in vivo Gaq mutants: \cite{Kain_2008}
+* con (old), first suggested: \cite{Benton_2006} 
+* con (old), in silico sequence analysis far from GPCRs: \cite{Wistrand_2006} 
+* con, drug inhibition test: \cite{Smart_2008} 
+* con, no to other OSNs but yes to ab1C: \cite{Yao_2010}
+* con, in silico protein structure far from GPCRs: \cite{Hopf_2015}
+* reconciliation?: \cite{Sargsyan_2011}
+
+### Original research part 5 - protein-level analyses
+* dOR heterodi(or multi)merization, BRET: \cite{Neuhaus_2004}
+* dOR heterodi(or multi)merization, BiFC: \cite{Benton_2006}
+* dOR topology: \cite{Benton_2006}
+* dOR de novo modeling: \cite{Hopf_2015}
 * Orco characterization, first: \cite{Larsson_2004} 
 * Orco characterization, functional conservation: \cite{Jones_2005}
 * Orco characterization, domains: \cite{Benton_2006}
 * Orco topology: \cite{Benton_2006} \cite{Lundin_2007} \cite{Smart_2008}
-
-### Original research part 5 - G protein involvement
-* pro (old), :
-* pro, metabotropic behavior observed in heterologous recordings: \cite{Wicher_2008}
-* pro, in vivo Gaq mutants: \cite{Kain_2008}
-* con, first: \cite{Benton_2006} 
-* con, metabotropic signal ignorable in heterologous recordings: \cite{Sato_2008}
-* con, drug inhibition test: \cite{Smart_2008} 
-* con, in silico sequence analysis far from GPCRs: \cite{Wistrand_2006} 
-* con, no to other OSNs but yes to ab1C: \cite{Yao_2010}
-* con, in silico protein structure far from GPCRs: \cite{Hopf_2015}
+* Orco phosphorylation by PKC: \cite{Sargsyan_2011}
+* moth Orco not involved in ionotropism...?: \cite{Nolte_2013}
