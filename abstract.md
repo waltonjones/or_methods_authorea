@@ -49,10 +49,13 @@
 * 
 
 ### Original research part 5 - G protein involvement
-* pro: \cite{Kain_2008}
+* pro (old), :
+* pro, metabotropic behavior observed in heterologous recordings: 
+* pro, in vivo Gaq mutants: \cite{Kain_2008}
 * 
 * con, first: \cite{Benton_2006} 
+* con, metabotropic signal ignorable in heterologous recordings: \cite{Sato_2008}
 * con, drug inhibition test: \cite{Smart_2008} 
-* \cite{Wistrand_2006} 
+* con, in silico sequence analysis far from GPCRs: \cite{Wistrand_2006} 
 * con, no to other OSNs but yes to ab1C: \cite{Yao_2010}
-* con, model structure not close enough to GPCRs: \cite{Hopf_2015}
+* con, in silico protein structure far from GPCRs: \cite{Hopf_2015}
