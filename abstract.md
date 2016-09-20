@@ -15,6 +15,7 @@
 * mammals and insects, neurons and circuits: \cite{Su_2009}
 * vertebrates and insects, genes and proteins: \cite{Kaupp_2010}
 * vertebrates and insects, genetic evolution: \cite{Nei_2008}
+* Orco, receptor or channel?: \cite{Wicher_2009}
 * controversy and consensus, OR molecular mechanism: \cite{Nakagawa_2009}
 
 ### ? What is this
@@ -50,7 +51,7 @@
 
 ### Original research part 5 - G protein involvement
 * pro (old), :
-* pro, metabotropic behavior observed in heterologous recordings: 
+* pro, metabotropic behavior observed in heterologous recordings: \cite{Wicher_2008}
 * pro, in vivo Gaq mutants: \cite{Kain_2008}
 * 
 * con, first: \cite{Benton_2006} 
