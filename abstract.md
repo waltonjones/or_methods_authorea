@@ -56,7 +56,7 @@
 * **Cons**
 * con (old), first suggested: \cite{Benton_2006}
 * con (old), in silico sequence analysis far from GPCRs: \cite{Wistrand_2006}
-* con, drug inhibition test in Sf9, S2, and HEK cells: \cite{Smart_2008}
+* con, drug inhibition test [Sf9, S2, HEK]: \cite{Smart_2008}
 * con, no to other OSNs but yes to ab1C: \cite{Yao_2010}
 * con, in silico protein structure far from GPCRs: \cite{Hopf_2015}
 * **Reconciliation?**
@@ -64,19 +64,18 @@
 
 ### Original research part 5 - protein-level analyses of ORs
 * OR heterodi(or multi)merization [BRET]: \cite{Neuhaus_2004}
-* OR heterodi(or multi)merization [BiFC]: \cite{Benton_2006}
-* OR topology: \cite{Benton_2006}
+* OR heterodi(or multi)merization, topology [in vivo BiFC, in silico, Y2H]: \cite{Benton_2006}
 * OR solubilization [Ecoli, wheat germ cell-free expression, Sf9, liposome]: \cite{Carraher_2013}
 * OR de novo modeling [in silico]: \cite{Hopf_2015}
-* OR and Orco functional change by calmodulin-binding cite mutation in mammalian cells: \cite{Mukunda_2014}
+* OR and Orco functional change by calmodulin-binding cite mutation [in vivo, CHO]: \cite{Mukunda_2014}
 * OR sensitization by calmodulin: \cite{Mukunda_2016}
 * BmOR-Orco (moth) and OR-Orco channel pore suggested [oocyte, in vivo]: \cite{Nakagawa_2012}
 * **Below about Orco**
 * Orco characterization, first [in vivo]: \cite{Larsson_2004}
 * Orco characterization, functional conservation [in vivo]: \cite{Jones_2005}
-* Orco characterization, domains, dimerization [in vivo]: \cite{Benton_2006}
+* Orco characterization, domains, dimerization [...]: \cite{Benton_2006}
 * Orco synthetic dimer functional study in mammalian cells: \cite{Mukunda_2014a}
-* Orco topology: \cite{Benton_2006} \cite{Lundin_2007} \cite{Smart_2008}
+* Orco topology: […] \cite{Benton_2006} [in vitro] \cite{Lundin_2007} [Sf9, S2, HEK] \cite{Smart_2008}
 * Orco is not the odorant-binding subunit [oocyte]: \cite{Nichols_2011}
 * PKC involved in Orco activity regulation: \cite{Sargsyan_2011}
 * MsOrco (moth) not involved in ionotropism...?: \cite{Nolte_2013}
