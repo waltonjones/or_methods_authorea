@@ -75,7 +75,7 @@
 * Orco characterization, functional conservation [in vivo]: \cite{Jones_2005}
 * Orco characterization, domains, dimerization [...]: \cite{Benton_2006}
 * Orco synthetic dimer functional study in mammalian cells: \cite{Mukunda_2014a}
-* Orco topology: […] \cite{Benton_2006} [in vitro] \cite{Lundin_2007} [Sf9, S2, HEK] \cite{Smart_2008}
+* Orco topology: […] \cite{Benton_2006} [in vitro] \cite{Lundin_2007} (10.1016/j.febslet.2007.11.007) [Sf9, S2, HEK] \cite{Smart_2008}
 * Orco is not the odorant-binding subunit [oocyte]: \cite{Nichols_2011}
 * PKC involved in Orco activity regulation: \cite{Sargsyan_2011}
 * MsOrco (moth) not involved in ionotropism...?: \cite{Nolte_2013}
