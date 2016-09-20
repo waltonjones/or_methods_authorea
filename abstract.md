@@ -40,20 +40,21 @@
 * 
 
 ### Original research part 4 - protein-level analyses
+* OR heterodi(or multi)merization, BRET: \cite{Neuhaus_2004}
+* OR heterodi(or multi)merization, BiFC: \cite{Benton_2006}
 * OR topology: \cite{Benton_2006}
-* OR heterodi(or multi)merization: \cite{Benton_2006}
 * OR de novo modeling: \cite{Hopf_2015}
+
 * Orco characterization, first: \cite{Larsson_2004} 
-* Orco characterization, domains: \cite{Benton_2006}
 * Orco characterization, functional conservation: \cite{Jones_2005}
+* Orco characterization, domains: \cite{Benton_2006}
 * Orco topology: \cite{Benton_2006} \cite{Lundin_2007} \cite{Smart_2008}
-* 
 
 ### Original research part 5 - G protein involvement
 * pro (old), :
 * pro, metabotropic behavior observed in heterologous recordings: \cite{Wicher_2008}
 * pro, in vivo Gaq mutants: \cite{Kain_2008}
-* 
+
 * con, first: \cite{Benton_2006} 
 * con, metabotropic signal ignorable in heterologous recordings: \cite{Sato_2008}
 * con, drug inhibition test: \cite{Smart_2008} 
