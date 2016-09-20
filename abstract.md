@@ -37,6 +37,8 @@
 * larval OR, 19 recorded: \cite{Mathew_2013}
 
 ### Original research part 3 - heterologous studies
+* odor-evoked ionotropism observed: \cite{Sato_2008} \cite{Wicher_2008}
+* metabotropism observed: 
 * 
 
 ### Original research part 4 - protein-level analyses
@@ -44,7 +46,6 @@
 * OR heterodi(or multi)merization, BiFC: \cite{Benton_2006}
 * OR topology: \cite{Benton_2006}
 * OR de novo modeling: \cite{Hopf_2015}
-
 * Orco characterization, first: \cite{Larsson_2004} 
 * Orco characterization, functional conservation: \cite{Jones_2005}
 * Orco characterization, domains: \cite{Benton_2006}
@@ -54,7 +55,6 @@
 * pro (old), :
 * pro, metabotropic behavior observed in heterologous recordings: \cite{Wicher_2008}
 * pro, in vivo Gaq mutants: \cite{Kain_2008}
-
 * con, first: \cite{Benton_2006} 
 * con, metabotropic signal ignorable in heterologous recordings: \cite{Sato_2008}
 * con, drug inhibition test: \cite{Smart_2008} 
