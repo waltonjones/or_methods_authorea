@@ -97,6 +97,8 @@
 
 ### Original research part 7 - protein work papers unrelated to insect OR functional/molecular studies
 * soluble proteome of the Drosophila antenna: 10.1093/chemse/bjp073 \cite{Anholt_2009}
+* IR64a and IR8a Form a Functional Odorant Receptor Complex In Vivo in Drosophila: 10.1523/JNEUROSCI.5419-12.2013 \cite{Ai_2013}
+* New functions of mitochondria associated membranes in cellular signaling: 10.1016/j.bbamcr.2014.03.009 \cite{van_Vliet_2014}
 * mito Ca++ mobilization is the key element in mouse olfactory signaling: 10.1038/nn.3074 \cite{Fluegge_2012}
 * Or92a expression pattern: [UAS-mCD8::GFP] \cite{Couto_2005}, [promotor fusion] \cite{Jafari_2012}
 * Or67c expression pattern: \cite{Couto_2005}
