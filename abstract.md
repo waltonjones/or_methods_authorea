@@ -102,6 +102,7 @@
 * Or67c expression pattern: \cite{Couto_2005}
 
 ### Technique papers
+* Ionotropic Glutamate Receptors IR64a and IR8a Form a Functional Odorant Receptor Complex In Vivo in Drosophila: 10.1523/JNEUROSCI.5419-12.2013 \cite{Ai_2013}
 * A modified Western blot protocol for enhanced sensitivity in the detection of a membrane protein: 10.1016/j.ab.2008.10.005 \cite{Kaur_2009}
 * Thermal aggregation of SARS-CoV membrane protein: 10.1016/j.jviromet.2005.05.022 \cite{Lee_2005}
 * Comparison and applications of label-free absolute proteome quantification methods on Escherichia coli: 10.1016/j.jprot.2012.06.020 \cite{Arike_2012}
