@@ -1,29 +1,5 @@
 # Results: The main text (not including Abstract, Methods, References and figure legends) [meaning intro + results + discussion] should be no more than 4,500 words. The main text of an Article can be organised in different ways and according to the authors' preferences, it may be appropriate to combine sections.
 
-## Figure 1: Tissue enrichment, protein solubilization (only DDM), and immunoprecipitation
-* 1A (WB): Body < heads < sieved tissues, successful protein enrichment
-* 1B (WB): EGFP::Orco and myr::GFP solubilization in DDM, sups and pellets, at room temperature
-* 1C (IHC): EGFP::Orco and myr::GFP expression in tissues
-* 1D (IP-WB): EGFP::Orco and myr::GFP IP products
-
-## Table 1: IP-MS top 30
-
-## Figure 2: Immunoprecipitation-immunoblotting (IP-WB of selected proteins from Table 1)
-## Figure 3: Changes on the odor-evoked activities upon RNAI of individual proteins (only ones with change)
-* 3A (spike images): The recording window of paraffin oil stimulation and odor stimulation
-* 3B (graphs): Only positive results (8/29)
-
-## Figure 4: Decreased spontaneous activity upon RNAI of vir-1 and Rab5 (only ones with change)
-* 4A (spike images): How vir-1 and Rab5 spontaneous activities look like, compared to the controls and orco1
-* 4B (graphs): (2/29)
-
-### S1: Overview of the procedure (diagram)
-### S2: Temperature-sensitive EGFP::Orco solubilization in various laboratory detergents
-### S3: The temperature-sensitive change in solubility is also shown with EGFP::Or47a and EGFP::Gr21a
-### Table S4: List of 207 selected proteins (iBAQ ratio over 10)
-### S5: The effect of RNAi on the odor-evoked activities (without change)
-### S6: The effect of RNAi on the spontaneous activities (without change)
-
 # Tissue enrichment, protein solubilization, and co-immunoprecipitation
 The major advancement of our method was achieved by protein solubilization from the native tissues. The dendrite is a compartmentalized portion of a neuron resembling cilia \cite{}, and the protein-protein interactions in such environment cannot be represented by any current heterologous expression systems, especially when the cell’s functionality relies on a key protein which is not conserved in other animals. Concerning this fact, we decided to use native tissues lysates for our protein-protein interaction experiments of Orco.
 
