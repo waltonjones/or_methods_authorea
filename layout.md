@@ -5,5 +5,6 @@ Results_The_main_text_not__.md
 Discussion_The_main_text_not__.md
 Methods_Sci_Rep_1_500__.md
 Figures_Figure_1_Tissue_enrichment__.md
+Supplmentary_figures_S1_Overview_of__.md
 figures/figure_1/figure_1.jpg
 Citation_notes_personal_Reviews_on__.md
