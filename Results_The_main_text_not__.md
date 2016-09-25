@@ -1,4 +1,4 @@
-# Results: The main text (not including Abstract, Methods, References and figure legends) [meaning intro + results + discussion] should be no more than 4,500 words. The main text of an Article can be organised in different ways and according to the authors' preferences, it may be appropriate to combine sections.
+# Results
 
 # Tissue enrichment, protein solubilization, and co-immunoprecipitation
 The major advancement of our method was achieved by protein solubilization from the native tissues. The dendrite is a compartmentalized portion of a neuron resembling cilia \cite{}, and the protein-protein interactions in such environment cannot be represented by any current heterologous expression systems, especially when the cell’s functionality relies on a key protein which is not conserved in other animals. Concerning this fact, we decided to use native tissues lysates for our protein-protein interaction experiments of Orco.
