@@ -99,8 +99,10 @@
 * Rab proteins as membrane organizers: 10.1038/35052055 \cite{Zerial_2001}
 * The Jak-STAT signaling pathway is required but not sufficient for the antiviral response of drosophila: 10.1038/ni1237 \cite{Dostert_2005}
 * A Conserved Dedicated Olfactory Circuit for Detecting Harmful Microbes in Drosophila: 10.1016/j.cell.2012.09.046 \cite{Stensmyr_2012}
+* The Genetic Basis for Variation in Olfactory Behavior in Drosophila melanogaster: 10.1093/chemse/bjv001 \cite{Arya_2015}
 
 ### Technique papers
+* Orco-GAL4 original paper: 10.1016/S0092-8674(03)00004-7 \cite{Wang_2003}
 * A modified Western blot protocol for enhanced sensitivity in the detection of a membrane protein: 10.1016/j.ab.2008.10.005 \cite{Kaur_2009}
 * Thermal aggregation of SARS-CoV membrane protein: 10.1016/j.jviromet.2005.05.022 \cite{Lee_2005}
 * Comparison and applications of label-free absolute proteome quantification methods on Escherichia coli: 10.1016/j.jprot.2012.06.020 \cite{Arike_2012}
