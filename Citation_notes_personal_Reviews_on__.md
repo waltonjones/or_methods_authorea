@@ -12,6 +12,7 @@
 * Orco, receptor or channel?: 10.1111/j.1749-6632.2009.04101.x \cite{Wicher_2009}
 * controversy and consensus, OR molecular mechanism: 10.1016/j.conb.2009.07.015 \cite{Nakagawa_2009}
 * functional evolution of chemoreceptors by Wicher: 10.3389/fncel.2012.00048 \cite{Wicher_2012}
+*  Towards an understanding of the structural basis for insect olfaction by odorant receptors (Newcomb group): 10.1016/j.ibmb.2015.09.010 \cite{Carraher_2015}
 
 ### ? What is this
 * OR nomenclature: 10.1016/j.conb.2009.07.015 \cite{2000}
