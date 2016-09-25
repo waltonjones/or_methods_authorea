@@ -65,6 +65,9 @@
 * OR and Orco functional change by calmodulin-binding cite mutation [in vivo, CHO]: \cite{Mukunda_2014}
 * OR sensitization by calmodulin: \cite{Mukunda_2016}
 * BmOR-Orco (moth) and OR-Orco channel pore suggested [oocyte, in vivo]: \cite{Nakagawa_2012}
+* **OR expression**
+* Or92a expression pattern: [UAS-mCD8::GFP] \cite{Couto_2005}, [promotor fusion] \cite{Jafari_2012}
+* Or67c expression pattern: \cite{Couto_2005}
 * **Orco**
 * Orco characterization, first [in vivo]: \cite{Larsson_2004}
 * Orco characterization, functional conservation [in vivo]: \cite{Jones_2005}
@@ -74,6 +77,7 @@
 * Orco is not the odorant-binding subunit [oocyte]: \cite{Nichols_2011}
 * PKC involved in Orco activity regulation: \cite{Sargsyan_2011}
 * MsOrco (moth) not involved in ionotropism...?: \cite{Nolte_2013}
+* some insects lack Orco: 10.7554/eLife.02115.001 \cite{1}
 * **Orco PAGE-WB**
 * Orco with engineered phosphorylation cytes [in vitro, rough microsome]: 10.1016/j.febslet.2007.11.007 \cite{Lundin_2007}
 * OR heterodi(or multi)merization [HEK, BRET]: doi:10.1038/nn1371 \cite{Neuhaus_2004}
@@ -93,8 +97,8 @@
 * New functions of mitochondria associated membranes in cellular signaling: 10.1016/j.bbamcr.2014.03.009 \cite{van_Vliet_2014}
 * mito Ca++ mobilization is the key element in mouse olfactory signaling: 10.1038/nn.3074 \cite{Fluegge_2012}
 * Rab proteins as membrane organizers: 10.1038/35052055 \cite{Zerial_2001}
-* Or92a expression pattern: [UAS-mCD8::GFP] \cite{Couto_2005}, [promotor fusion] \cite{Jafari_2012}
-* Or67c expression pattern: \cite{Couto_2005}
+* The Jak-STAT signaling pathway is required but not sufficient for the antiviral response of drosophila: 10.1038/ni1237 \cite{Dostert_2005}
+* A Conserved Dedicated Olfactory Circuit for Detecting Harmful Microbes in Drosophila: 10.1016/j.cell.2012.09.046 \cite{Stensmyr_2012}
 
 ### Technique papers
 * A modified Western blot protocol for enhanced sensitivity in the detection of a membrane protein: 10.1016/j.ab.2008.10.005 \cite{Kaur_2009}
