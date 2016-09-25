@@ -8,6 +8,7 @@
 * mammals and insects, neurons and circuits: 10.1016/j.cell.2009.09.015 \cite{Su_2009}
 * vertebrates and insects, genes and proteins: 10.1038/nrn2789 \cite{Kaupp_2010}
 * vertebrates and insects, genetic evolution: 10.1038/nrg2480 \cite{Nei_2008}
+* Odor Detection in Insects: Volatile Codes: 10.1007/s10886-008-9485-4 \cite{de_Bruyne_2008}
 * Orco, receptor or channel?: 10.1111/j.1749-6632.2009.04101.x \cite{Wicher_2009}
 * controversy and consensus, OR molecular mechanism: 10.1016/j.conb.2009.07.015 \cite{Nakagawa_2009}
 * functional evolution of chemoreceptors by Wicher: 10.3389/fncel.2012.00048 \cite{Wicher_2012}
