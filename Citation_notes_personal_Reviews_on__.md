@@ -108,6 +108,7 @@
 
 ### Technique papers
 * Orco-GAL4 original paper: 10.1016/S0092-8674(03)00004-7 \cite{Wang_2003}
+* Putative Drosophila odor receptor OR43b localizes to dendrites of olfactory neurons, antennal IHC protocol: 10.1016/S0965-1748(00)00184-3 \cite{Elmore_2001}
 * A modified Western blot protocol for enhanced sensitivity in the detection of a membrane protein: 10.1016/j.ab.2008.10.005 \cite{Kaur_2009}
 * Thermal aggregation of SARS-CoV membrane protein: 10.1016/j.jviromet.2005.05.022 \cite{Lee_2005}
 * Comparison and applications of label-free absolute proteome quantification methods on Escherichia coli: 10.1016/j.jprot.2012.06.020 \cite{Arike_2012}
