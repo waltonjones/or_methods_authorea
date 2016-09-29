@@ -27,6 +27,7 @@
 ### Original research part 2 [in vivo] - SSR techniques and odor coding theories
 * adult OR, palp (no DOI): J Neurosci. 1999 Jun 1;19(11):4520-32. Odor coding in a model olfactory organ: the Drosophila maxillary palp. de Bruyne M(1), Clyne PJ, Carlson JR.
 * adult OR, antenna: 10.1016/S0896-6273(01)00289-6 \cite{de_Bruyne_2001}
+* Electrophysiological Recording from Drosophila Olfactory Sensilla: 10.1101/pdb.prot5630 \cite{Benton_2011}
 * adult OR [empty neuron]: \cite{Dobritsa_2003} \cite{Hallem_2004}
 * adult OR, antennal ORs, 24 recorded, odor space [empty neuron]: \cite{Hallem_2006}
 * adult OR, all trichoids [in vivo]: 10.1016/j.cub.2007.02.043 \cite{van_der_Goes_van_Naters_2007}
@@ -45,9 +46,9 @@
 * **Pros**
 * pro (old), cAMP OX in the antenna produces behavioral defects [in vivo]: \cite{Gomez_Diaz_2004}
 * pro, Gaq mutants [in vivo]: \cite{Kain_2008}
-* pro, increase of PKC activity upon odor stimulation in vivo: 10.1242/jeb.143396 \cite{Getahun_2016}
-* pro, Orco phosphorylated by PKC in vitro: \cite{Sargsyan_2011}
-* pro, Go/i affect both phasic and tonic responses: 10.1111/ejn.12481 \cite{Ignatious_Raja_2014}
+* pro, increase of PKC activity upon odor stimulation [in vivo]: 10.1242/jeb.143396 \cite{Getahun_2016}
+* pro, Orco phosphorylated by PKC [in vitro]: \cite{Sargsyan_2011}
+* pro, Go/i affect both phasic and tonic responses [HEK, in vivo]: 10.1111/ejn.12481 \cite{Ignatious_Raja_2014}
 * pro, Orco-PKC mutants show behavioral defects [in vivo]: \cite{Getahun_2016}
 * pro, odor-induced cAMP production [in vivo]: \cite{Miazzi_2016}
 * **Cons**
@@ -57,11 +58,12 @@
 * con, no to other OSNs but yes to ab1C: \cite{Yao_2010}
 * con, in silico protein structure far from GPCRs: \cite{Hopf_2015}
 * **Reconciliation?**
-* metabotropic autoregulation of Orco sensitizes ORs: \cite{Getahun_2013}
+* metabotropic autoregulation of Orco sensitizes ORs: 10.1371/journal.pone.0058889 \cite{Getahun_2013}
 
 ### Original research part 5 - protein-level analyses of ORs
 * OR heterodi(or multi)merization [HEK, BRET]: doi:10.1038/nn1371 \cite{Neuhaus_2004}
 * OR heterodi(or multi)merization, topology [in vivo, BiFC, in silico, Y2H]: \cite{Benton_2006}
+* Insights into subunit interactions within the insect olfactory receptor complex using FRET: 10.1016/j.ibmb.2012.11.002
 * OR solubilization [Ecoli, wheat germ cell-free expression, Sf9, liposome]: \cite{Carraher_2013}
 * OR de novo modeling [in silico]: \cite{Hopf_2015}
 * OR and Orco functional change by calmodulin-binding cite mutation [in vivo, CHO]: \cite{Mukunda_2014}
@@ -85,6 +87,7 @@
 * OR heterodi(or multi)merization [HEK, BRET]: doi:10.1038/nn1371 \cite{Neuhaus_2004}
 * Orco-GFP, construct from \cite{Neuhaus_2004} [HEK]: 10.1111/ejn.12481 \cite{Ignatious_Raja_2014} 근데 저 밴드 Or22a야 아님 Orco야? 왜 똑바로 말을 안해
 * (can’t read the article): 10.1242/jeb.143396 \cite{Getahun_2016}
+* Expression and Membrane Topology of Anopheles gambiae Odorant Receptors in Lepidopteran Insect Cells: 10.1371/journal.pone.0015428
 
 ### Original research part 6 - probable binding partners of ORs
 * LUSH (OBP) required for the cVA neuron (T1): \cite{Xu_2005} 첫 페이퍼 아님. 근데 실수 교정한거
