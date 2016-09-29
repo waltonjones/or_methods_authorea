@@ -75,6 +75,8 @@
 * **OR expression**
 * Or92a expression pattern: [UAS-mCD8::GFP] \cite{Couto_2005}, [promotor fusion] \cite{Jafari_2012}
 * Or67c expression pattern: \cite{Couto_2005}
+* BmOrco co-expression enhances OR functional expression and channel activity [oocyte, in vivo]: 10.1126/science.1106267 \cite{Nakagawa_2005}
+* Orco-OR dimerization enhances OR functionality [HEK, BRET, EAG]: 10.1038/nn1371 \cite{Neuhaus_2004}
 * **Orco**
 * Orco characterization, first [in vivo]: \cite{Larsson_2004}
 * Orco characterization, functional conservation [in vivo]: \cite{Jones_2005}
@@ -87,7 +89,7 @@
 * some insects lack Orco: 10.7554/eLife.02115.001 \cite{1}
 * **Orco PAGE-WB**
 * Orco with engineered phosphorylation cytes [in vitro, rough microsome]: 10.1016/j.febslet.2007.11.007 \cite{Lundin_2007}
-* OR heterodi(or multi)merization [HEK, BRET]: doi:10.1038/nn1371 \cite{Neuhaus_2004}
+* OR heterodi(or multi)merization [HEK, BRET, EAG]: \cite{Neuhaus_2004}
 * Orco-GFP, construct from \cite{Neuhaus_2004} [HEK]: 10.1111/ejn.12481 \cite{Ignatious_Raja_2014} 근데 저 밴드 Or22a야 아님 Orco야? 왜 똑바로 말을 안해
 * (can’t read the article): 10.1242/jeb.143396 \cite{Getahun_2016}
 * Expression and Membrane Topology of Anopheles gambiae Odorant Receptors in Lepidopteran Insect Cells: 10.1371/journal.pone.0015428
