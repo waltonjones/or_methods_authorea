@@ -13,6 +13,9 @@
 * controversy and consensus, OR molecular mechanism: 10.1016/j.conb.2009.07.015 \cite{Nakagawa_2009}
 * functional evolution of chemoreceptors by Wicher: 10.3389/fncel.2012.00048 \cite{Wicher_2012}
 *  Towards an understanding of the structural basis for insect olfaction by odorant receptors (Newcomb group): 10.1016/j.ibmb.2015.09.010 \cite{Carraher_2015}
+* **OBPs**
+* Odorant Reception in Insects: Roles of Receptors, Binding Proteins, and Degrading Enzymes: 10.1146/annurev-ento-120811-153635 \cite{Leal_2013}
+* Ligand binding and homology modelling of insect odorant-binding proteins: 10.1111/phen.12066 \cite{Venthur_2014}
 
 ### ? What is this
 * OR nomenclature: 10.1016/j.conb.2009.07.015 \cite{2000}
@@ -91,6 +94,7 @@
 
 ### Original research part 6 - probable binding partners of ORs
 * LUSH (OBP) required for the cVA neuron (T1): \cite{Xu_2005} 첫 페이퍼 아님. 근데 실수 교정한거
+* Activation of Pheromone-Sensitive Neurons Is Mediated by Conformational Activation of Pheromone-Binding Protein, LUSH conformation shift [crystal, in vitro, in vivo]: 10.1016/j.cell.2008.04.046 \cite{Laughlin_2008}
 * SNMP1 (CD36-like) required for pheromone-evoked response: \cite{Li_2014}
 * dATP8b role in cVA receptor (Or67d) [SSR, IHC]: \cite{Ha_2014}
 * dATP8b required for ORs but not IRs or GRs [EAG, EPG, IHC]: \cite{Liu_2014}
