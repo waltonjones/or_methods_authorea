@@ -1,33 +1,28 @@
-#  Methods (Sci. Rep. 1,500 words)
-## Fly stocks 
-Flies were kept on a standard corn meal, corn syrup, yeast, and agar medium at room temperature. For the electrophysiology experiment, ... For the immunohistochemistry experiment, ...
+# Methods: ~1080/1,500 words.
+
+Where appropriate, we recommend that authors limit their Methods section to 1,500 words. Authors must ensure that their Methods section includes adequate experimental and characterization data necessary for others in the field to reproduce their work. Descriptions of standard protocols and experimental procedures should be given. Commercial suppliers of reagents or instrumentation should be identified only when the source is critical to the outcome of the experiments. Sources for kits should be identified. Experimental protocols that describe the synthesis of new compounds should be included. The systematic name of the compound and its bold Arabic numeral are used as the heading for the experimental protocol. Thereafter, the compound is represented by its assigned bold numeral. Authors should describe the experimental protocol in detail, referring to amounts of reagents in parentheses, when possible (eg 1.03 g, 0.100 mmol). Standard abbreviations for reagents and solvents are encouraged. Safety hazards posed by reagents or protocols should be identified clearly. Isolated mass and percent yields should be reported at the end of each protocol.
+
+## Fly work
+Flies were kept on ?? medium at room temperature. For all EGFP-tagged Orco experiments, w; Orco-GAL4, UAS-EGFP::Orco; orco1; was used. To make this line, UAS-EGFP::Orco \cite{Benton_2006} was mobilized by spontaneous crossing-over events and moved onto the chromosome where Orco-GAL4 \cite{Wang_2003} was present. Afterwards, orco1 \cite{Larsson_2004} was combined with this line. For the protein solubilization experiment of other 7TM proteins, w; UAS-EGFP::Or47a; Orco-GAL4; and w; UAS-EGFP::Gr21a; Orco-GAL4; was used. For the IP-MS experiments, w; Orco-GAL4, UAS-myr::GFP; orco1; was used as the negative control, where UAS-myr::GFP \cite{Pfeiffer_2010} was mobilized the same way as UAS-EGFP::Orco. For the SSR experiments, UAS-RNAi flies were crossed with w; UAS-Dcr2; Orco-GAL4;. UAS-RNAi flies from Bloomington Drosophila Stock Center (Indiana, USA) are for Mpcp (#44508), CG40006 (#34691), Sc2 (#63682), Eaat1 (#43287), Cisd2 (#33749), vir-1 (#58209), SP (#25998), T-cp1 (#32854), Rab5 (#30518), Tom70 (#43966), CG2781 (#50710), CG13850 (#42574), CG4729 (#50568), CG30427 (#58271), CdsA (#28075), and CG6178 (#56033), and the GAL4 heterozygous control flies were crossed to either attP40 or attP2 control lines that are officially provided. For Gale, a mutant line was used (#37739). UAS-RNAi flies from Vienna Drosophila Resource Center (Vienna, Austria) are ND-B22 (#23088), CG1309 (#104669), CG6204 (#31162), AIF (#109615), Dic1 (#103757), alpha-Est10 (#107917), Cyp28a5 (#108709), Cyp6a8 (#100459), Cyp6a23 (#100679), Spn28F (#100958), CG15394 (#109031), and out (#108364), and the GAL4 heterozygous control flies were crossed to either the official KK control line or w1118 (for GD lines). For mt:Cyt-b, no fly line was publicly available thus we skipped SSR.
 
 ## Tissue preparation
-For all EGFP-tagged Orco experiments, w; Orco-GAL4, UAS-EGFP::Orco; orco^1; was used. To make this line, UAS-EGFP::Orco \cite{Benton_2006} was mobilized by spontaneous crossing-over events and moved onto the chromosome where Orco-GAL4 \cite{Wang_2003} was present. Afterwards, orco^1 \cite{Larsson_2004} was combined to this line. For the protein solubilization experiment, w; UAS-Or47a; Orco-GAL4; was used. For the IP-MS experiment, w; Orco-GAL4, UAS-myr::GFP; orco^1; was used as the negative control, where UAS-myr::GFP \cite{Pfeiffer_2010} was mobilized the same way as UAS-EGFP::Orco.
-~Homogenizaiton~
-Surgical steel beads (Sugentech)
-TissueLyser (Qiagen)
+For the whole-body total protein preparation, any adult flies were wet-ice anesthetized and roughly 15 mg were put per tube. For the head total protein preparation, roughly ?? heads were collected manually on dry ice. The sieved-tissue total protein preparation was done as follows. Males and females within 20 days after eclosion were collected in 50-mL conical tubes and kept at -80’C. The tube was connected to a fresh 50-mL conical tube using a home-made sieve. The sieve had a sheeth of metal mesh (pore size 0.2 mm^2) fixed in between two hollow lids (Supplementary Fig. S1). Frozen flies were shaken with a vortexter and any small body parts passing through the mesh were collected into the fresh tube. Sieved tissues were immediately processed and homogenized to minimize protein degradation after breaking OSNs at their axons. 30 mg for IP-MS and 15 mg for the rest of the experiments were put per tube. Tissues were homogenized on TissueLyser (Qiagen) at 27 Hz for two minutes, either in room temperature or in liquid-nitrogen freezing temperature. Thick-wall 1.5-mL tubes and three surgical-steel beads (3 mm in diameter) per tube were used. Tissues were kept on wet ice the whole time if not being weighed or homogenized.
 
-## Protein solubilization
-Triton X-100 (
-Tween 20 (
-Nonidet P-40 or NP-40 (Bio Basic NDB0385)
-Octyl-β-D-glucopyranoside or OG (Fluka 75083)
-n-Dodecyl β-D-maltoside or DDM (ThermoFisher 89903)
-CHAPS (Sigma-Aldrich C5070)
-CHAPSO (Calbiochem 220201)
-Zwittergent 3-16 (Calbiochem 693023)
-Sodium dodecyl sulfate or SDS (
-cOmplete™, Mini, EDTA-free Protease Inhibitor Cocktail (Roche 04693159001)
+## Total protein preparation
+Immediately after "milling," 300 uL of lysis buffer was added into the squished tissue and vortexed for one minute to thoroughly mix them. The raw lysate was centrifuged for five minutes at 10,000 rcf at 10 'C to get rid of the cuticular chunks. The supernatant was moved to a fresh tube and centrifuged the same way once more. The final supernatant was carefully moved to another fresh tube, avoiding the debris and wax. The tissue lysates were kept at -80’C. Lysis buffers were prepared upon the dilution buffer suggested for GFP-Trap®_A by ChromoTek (Munich, Germany), adding either n-Dodecyl β-D-maltoside (DDM; ThermoFisher 89903) or Sodium dodecyl sulfate (SDS; USB UB18220S3) to 1% detergent and EDTA-free Protease Inhibitor Cocktail (Roche 04693159001). Quantification was done with Pierce™ BCA Protein Assay Kit (ThermoFisher 23227).
 
 ## Western blotting
-Total proteins were mixed with 2X SDS buffer (ChromoTek protocol) and, without boiling, loaded to 10% SDS-polyacrylamide gel was used as suggested by BioRad Mini-PROTEAN Tetra Cell Instruction Manual. Segregated proteins were transferred onto the PVDF membrane (Millipore IPVH00010) in the standard Tris-glycine buffer. To detect EGFP on PVDF membranes, anti-GFP (ThermoFisher A-11122) was used, diluted to 20,000X in the standard TBST buffer with 5% skim milk.
+To detect membrane proteins, tissue lysate was mixed with 2X SDS buffer (ChromoTek GFP-Trap®_A protocol recipe) and, without boiling, loaded to the SDS-polyacrylamide gel. To detect soluble proteins, samples were boiled at 95’C for 10 minutes before loading. Western blotting was done as suggested in BioRad Mini-PROTEAN Tetra Cell Instruction Manual and 10% gels were used. Segregated total protein was transferred onto the PVDF membrane (EMD Millipore IPVH00010). Anti-GFP (ThermoFisher, A-11122) diluted 1:20,000, …, and … were the primary antibodies used. Horseradish peroxidase-conjugated secondary antibodies against rabbit (EMD Millipore, AP132P) or mouse (ThermoFisher, 31430) were used. SuperSignal™ West Pico Chemiluminescent Substrate (ThermoFisher, 34087) and BioRad ChemiDoc XRS+ were used for development.
 
-## Immunoprecipitation
-GFP-Trap®_A (ChromoTek)
+## Immunohistochemistry
+Five-day-old female antennae were stained with antibodies as described previously \cite{Elmore_2001} \cite{Dobritsa_2003} with minor modifications.
+Orco-specific rabbit polyclonal antibody was raised against SSIPVEIPRLPIKS \cite{Larsson_2004} by AbFrontier (Seoul, South Korea). GFP staining was done with the same antibody used in western blotting. DAPI was stained with Vectashiled (Vector Laboratories, H-1200). Imaging was done with Zeiss LSM 780 Confocal Microscope.
 
-## Mass spectrometry
+## Immunoprecipitation and mass spectrometry
+For all IP experiments, 50 uL of bead slurry (ChromoTek, GFP-Trap®_A) was used and the procedure from bead equilibration was done as suggested by ChromoTek, with the modification that chelating agents were excluded in buffers. Equal amounts of total protein (above 5 mg) from the control and experimental lysates were incubated with beads in equal volumes for two hours in room temperature.
+* To be edited...
 
 ## Electrophysiology
+SSR from ab2 sensilla were performed as described previously \cite{Benton_2011} with 12-day-old adult flies. First, six sensilla were recorded from a male and a female, and if the initial recording shows phenotype, six additional sensilla from a new male and a new female were recorded. Methyl acetate (Sigma-Aldrich, 45999) was used in 1:100,000 dilution in paraffin oil (Sigma-Aldrich, 76235). Statistics and graph drawing were done in Prism by GraphPad Software (California, USA).
 
-## Immunohistochemistry 
+Five-day-old female heads were fixed in Tissue-Tek® O.C.T. Compound (Sakura Finetek, 4583) and 14-um sections were made using a cryostat (Leica Biosystems, CM1850). Tissue slices were stuck on Fisherfinest™ Premium Superfrost™ Microscope Slides (Fisher Scientific, 12-544-7), air-dried, fixed for 7 minutes with PBS-based 4% paraformaldehyde solution, and washed three times in PBS-based 0.5% Triton X-100 (PT). Tissues were blocked with PT-based 5% goat serum (PTS) for 30 minutes in room temperature and incubated at 4’C with primary antibodies were diluted in PTS. Afterwards, three PT washing and...
