@@ -3,7 +3,7 @@ Abstract_186_200_In_animals__.md
 Introduction_Olfaction_is_an_elaborate__1.md
 Results_Tissue_enrichment_protein_solubilization__.md
 Discussion_The_physiology_of_insect__.md
-Methods_Sci_Rep_1_500__.md
+Methods_1080_1_500_words__.md
 Figures_Figure_1_Tissue_enrichment__.md
 Supplmentary_figures_S1_Overview_of__.md
 figures/figure_1/figure_1.jpg
