@@ -1,4 +1,4 @@
-| Ranking by MSMS | Name        | iBAQ control | iBAQ experiment | Experimental/Control | Spectral counts (MS/MS counts) |
+| Ranking by MS/MS | Name        | iBAQ control | iBAQ experiment | Experimental/Control | Spectral counts (MS/MS counts) |
 |-----------------|-------------|--------------|-----------------|----------------------|--------------------------------|
 | 1               | Mpcp        | 7.01E+07     | 1.11E+09        | 1.58E+01             | 267                            |
 | 2               | CG40006     | 3.12E+06     | 9.21E+07        | 2.95E+01             | 109                            |
