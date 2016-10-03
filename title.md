@@ -1,2 +1,1 @@
-Protein-protein interaction analysis of Orco in adult Drosophila
-  
+Surveying the Orco interactome in adult Drosophila
