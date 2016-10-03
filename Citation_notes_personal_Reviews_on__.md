@@ -113,6 +113,7 @@
 * The Jak-STAT signaling pathway is required but not sufficient for the antiviral response of drosophila: 10.1038/ni1237 \cite{Dostert_2005}
 * A Conserved Dedicated Olfactory Circuit for Detecting Harmful Microbes in Drosophila: 10.1016/j.cell.2012.09.046 \cite{Stensmyr_2012}
 * The Genetic Basis for Variation in Olfactory Behavior in Drosophila melanogaster: 10.1093/chemse/bjv001 \cite{Arya_2015}
+* Identification of candidate odorant degrading gene/enzyme systems in the antennal transcriptome of Drosophila melanogaster: 10.1016/j.ibmb.2014.07.003 \cite{Younus_2014}
 
 ### Technique papers
 * Orco-GAL4 original paper: 10.1016/S0092-8674(03)00004-7 \cite{Wang_2003}
