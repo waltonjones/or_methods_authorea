@@ -7,6 +7,7 @@ Methods_1_500_words_Where__.md
 Figures_Figure_1_Tissue_enrichment__.md
 figures/Figure6/Figure6.png
 Ranking_by_MS_MS_Name__.md
+figures/Figure2sample/Figure2sample.png
 figures/Figure4/Figure4.png
 figures/Figure5/Figure5.png
 Supplmentary_figures_S1_Overview_of__.md
