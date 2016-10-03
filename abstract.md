@@ -1,3 +1,4 @@
+# Memo
 ## First author’s note
 * The target journal is Scientific Reports.
 * I want to emphasize that this paper is about a “multidisciplinary" method for “rapid" discoveries of novel binding partners. Electrophysiology is used as a tool to verify the IP-MS result because just one RNAi lines have been recorded for each protein candidate. No follow-up IHC images will be included.
