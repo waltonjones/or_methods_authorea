@@ -6,3 +6,5 @@
 * I'm not comfortable refering the IP-MS result as an “interactome” because we are not presenting any figure looking like an interaction network. Besides, I think our IP-MS was not refined enough to say that the result is close to the actual interactome. --> Eugene says it's fine to call our data an interactome... What do you think?
 * “Biochemistry” and “molecular biology” are used differently in this manuscript. “Biochemistry” was used for experiments that scrutinized molecules at the amino acid and/or functional group (organic chemistry) level. “Molecular biology/physiology” was used mainly to indicate domain-domain and/or protein-protein interactions.
 * “DDM" is used instead of "lauryl maltoside” for comparing our result with the published result. Somehow fly biochemists use DDM more often than lauryl maltoside...
+* Figure 1 and Figure 2 need additional experiments and these will be done by Oct. 20 (antibodies are arriving). I'm pretty sure that the images will come out as planned. There could be minor changes.
+* Supplementary figures are being made and these will be done by Oct. 15.
