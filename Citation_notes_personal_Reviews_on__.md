@@ -16,6 +16,8 @@
 * **OBPs**
 * Odorant Reception in Insects: Roles of Receptors, Binding Proteins, and Degrading Enzymes: 10.1146/annurev-ento-120811-153635 \cite{Leal_2013}
 * Ligand binding and homology modelling of insect odorant-binding proteins: 10.1111/phen.12066 \cite{Venthur_2014}
+* **primary cilia**
+* The primary cilium at a glance: 10.1242/jcs.050377 \cite{Satir_2010}
 
 ### ? What is this
 * OR nomenclature: 10.1016/j.conb.2009.07.015 \cite{2000}
