@@ -118,4 +118,5 @@
 * A modified Western blot protocol for enhanced sensitivity in the detection of a membrane protein: 10.1016/j.ab.2008.10.005 \cite{Kaur_2009}
 * Thermal aggregation of SARS-CoV membrane protein: 10.1016/j.jviromet.2005.05.022 \cite{Lee_2005}
 * Comparison and applications of label-free absolute proteome quantification methods on Escherichia coli: 10.1016/j.jprot.2012.06.020 \cite{Arike_2012}
-* on-bead digestion and MS analysis protocol: 10.1074/mcp.M110.006460 \cite{Lee_2010}
+* on-bead digestion protocol: 10.1074/mcp.M110.006460 \cite{Lee_2010}
+* MaxQuant: 10.1038/nbt.1511 \cite{Cox_2008}
