@@ -5,7 +5,6 @@ Results_Tissue_enrichment_protein_solubilization__.md
 Discussion_The_physiology_of_insect__.md
 Methods_1_500_words_Where__.md
 Figures_Figure_1_Tissue_enrichment__.md
-figures/Figure6/Figure6.png
 Ranking_by_MS_MS_Name__.md
 figures/Figure2sample/Figure2sample.png
 figures/Figure4/Figure4.png
