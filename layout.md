@@ -9,6 +9,5 @@ figures/Figure7/Figure7.png
 Ranking_by_MS_MS_Name__.md
 figures/Figure2sample/Figure2sample.png
 figures/Figure3(2)/Figure3(2).png
-figures/Figure8/Figure8.png
 Supplmentary_figures_S1_Overview_of__.md
 Citation_notes_personal_Reviews_on__.md
