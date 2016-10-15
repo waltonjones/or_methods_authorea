@@ -1,18 +1,18 @@
 # Figures
 ## Figure 1: Tissue enrichment, protein solubilization (only DDM), and immunoprecipitation
 * 1A (WB): Body < heads < sieved tissues, successful protein enrichment
-* 1B (WB): EGFP::Orco and myr::GFP solubilization in DDM, sups and pellets, at room temperature
-* 1C (IHC): EGFP::Orco and myr::GFP expression in tissues
-* 1D (IP-WB): EGFP::Orco and myr::GFP IP products
+* 1B (WB): EGFP::Orco solubilization in various laboratory detergents
+* 1C (WB): EGFP::Orco, myr::GFP, EGFP::Or47a, EGFP::Gr21a (myr::GFP?)
+* 1C (IP-WB): EGFP::Orco and myr::GFP IP products
 
-## Table 1: IP-MS top 30 (ones tested with electrophysiology)
+## Table 1: List of 30 selected proteins (iBAQ ratio over 10, ranked by MS/MS values)
 
 ## Figure 2: Immunoprecipitation-immunoblotting (IP-WB of selected proteins from Table 1)
 
 ## Figure 3: Changes on the odor-evoked activities upon RNAI of individual proteins (only ones with change)
-* 3A (spike images): The recording window of paraffin oil stimulation and odor stimulation
-* 3B (graphs): Only positive results (8/29)
+* 3A (graphs): Only positive results
+* 3B (spike images): The recording window of paraffin oil stimulation and odor stimulation
 
 ## Figure 4: Decreased spontaneous activity upon RNAI of vir-1 and Rab5 (only ones with change)
 * 4A (spike images): How vir-1 and Rab5 spontaneous activities look like, compared to the controls and orco1
-* 4B (graphs): (2/29)
+* 4B (graphs)
