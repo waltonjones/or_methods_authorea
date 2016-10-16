@@ -13,6 +13,8 @@
 * controversy and consensus, OR molecular mechanism: 10.1016/j.conb.2009.07.015 \cite{Nakagawa_2009}
 * functional evolution of chemoreceptors by Wicher: 10.3389/fncel.2012.00048 \cite{Wicher_2012}
 *  Towards an understanding of the structural basis for insect olfaction by odorant receptors (Newcomb group): 10.1016/j.ibmb.2015.09.010 \cite{Carraher_2015}
+* **IRs**
+* Ionotropic Receptors (IRs): Chemosensory ionotropic glutamate receptors in Drosophila and beyond: 10.1016/j.ibmb.2013.02.007
 * **OBPs**
 * Odorant Reception in Insects: Roles of Receptors, Binding Proteins, and Degrading Enzymes: 10.1146/annurev-ento-120811-153635 \cite{Leal_2013}
 * Ligand binding and homology modelling of insect odorant-binding proteins: 10.1111/phen.12066 \cite{Venthur_2014}
@@ -24,6 +26,7 @@
 
 ### Original research part 1 - discovery and genetics
 * mOR discovery: \cite{Buck_1991}
+* wormOR discovery: 10.1016/0092-8674(95)90162-0 \cite{Troemel_1995}
 * OR discovery: \cite{Vosshall_1999} \cite{Clyne_1999} \cite{Gao_1999}
 * OR genetics, 60 genes 62 proteins [in silico]: \cite{Robertson_2003}
 * OR genetics, complete map by reporter expression [in vivo]: 10.1016/j.cub.2005.07.034 \cite{Couto_2005}
@@ -77,6 +80,7 @@
 * **OR expression**
 * Or92a expression pattern: [UAS-mCD8::GFP] \cite{Couto_2005}, [promotor fusion] \cite{Jafari_2012}
 * Or67c expression pattern: \cite{Couto_2005}
+* Or47a expression pattern: DOI 10.1002/neu.10175
 * BmOrco co-expression enhances OR functional expression and channel activity [oocyte, in vivo]: 10.1126/science.1106267 \cite{Nakagawa_2005}
 * Orco-OR dimerization enhances OR functionality [HEK, BRET, EAG]: 10.1038/nn1371 \cite{Neuhaus_2004}
 * **Orco**
