@@ -14,7 +14,7 @@
 * functional evolution of chemoreceptors by Wicher: 10.3389/fncel.2012.00048 \cite{Wicher_2012}
 *  Towards an understanding of the structural basis for insect olfaction by odorant receptors (Newcomb group): 10.1016/j.ibmb.2015.09.010 \cite{Carraher_2015}
 * **IRs**
-* Ionotropic Receptors (IRs): Chemosensory ionotropic glutamate receptors in Drosophila and beyond: 10.1016/j.ibmb.2013.02.007
+* Ionotropic Receptors (IRs): Chemosensory ionotropic glutamate receptors in Drosophila and beyond: 10.1016/j.ibmb.2013.02.007 \cite{Rytz_2013}
 * **OBPs**
 * Odorant Reception in Insects: Roles of Receptors, Binding Proteins, and Degrading Enzymes: 10.1146/annurev-ento-120811-153635 \cite{Leal_2013}
 * Ligand binding and homology modelling of insect odorant-binding proteins: 10.1111/phen.12066 \cite{Venthur_2014}
