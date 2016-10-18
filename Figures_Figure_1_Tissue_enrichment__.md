@@ -7,12 +7,10 @@
 
 ## Table 1: List of 30 selected proteins (iBAQ ratio over 10, ranked by MS/MS values)
 
-## Figure 2: Immunoprecipitation-immunoblotting (IP-WB of selected proteins from Table 1)
+## Figure 2: Changes on the odor-evoked activities upon RNAI of individual proteins (only ones with change)
+* 2A (graphs): Only positive results
+* 2B (spike images): The recording window of paraffin oil stimulation and odor stimulation
 
-## Figure 3: Changes on the odor-evoked activities upon RNAI of individual proteins (only ones with change)
-* 3A (graphs): Only positive results
-* 3B (spike images): The recording window of paraffin oil stimulation and odor stimulation
-
-## Figure 4: Decreased spontaneous activity upon RNAI of vir-1 and Rab5 (only ones with change)
-* 4A (spike images): How vir-1 and Rab5 spontaneous activities look like, compared to the controls and orco1
-* 4B (graphs)
+## Figure 3: Decreased spontaneous activity upon RNAI of vir-1 and Rab5 (only ones with change)
+* 3A (spike images): How vir-1 and Rab5 spontaneous activities look like, compared to the controls and orco1
+* 3B (graphs)
