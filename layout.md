@@ -3,7 +3,7 @@ Abstract_186_200_words_In__.md
 Introduction_The_main_text_not__.md
 Results_Tissue_enrichment_protein_solubilization__.md
 Discussion_The_physiology_of_insect__.md
-Methods_1_500_words_Fly__.md
+Methods_1_500_words_Where__.md
 Figures_Figure_1_Tissue_enrichment__.md
 figures/Figure1real/Figure1real.png
 Ranking_by_MS_MS_Name__.md
