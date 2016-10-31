@@ -1,10 +1,1 @@
-# Memo
-## First author's note
-* The target journal is Scientific Reports.
-* I want to emphasize that this paper is about a "multidisciplinary" method for "rapid" discoveries of novel binding partners. Electrophysiology is used as a tool to verify the IP-MS result because just one RNAi lines have been recorded for each protein candidate. No follow-up IHC images will be included.
-* I tried to cite papers that contain at least some in vivo results (for physiology). Papers with in vitro physiology results are not cited. If the paper is about the topology, in vitro-only papers are cited.
-* I'm not comfortable refering the IP-MS result as an "interactome" because we are not presenting any figure looking like an interaction network. Besides, I think our IP-MS was not refined enough to say that the result is close to the actual interactome. --> Eugene says it's fine to call our data an interactome... What do you think?
-* "Biochemistry" and "molecular biology" are used differently in this manuscript. "Biochemistry" was used for experiments that scrutinized molecules at the amino acid and/or functional group (organic chemistry) level. "Molecular biology/physiology" was used mainly to indicate domain-domain and/or protein-protein interactions.
-* "DDM" is used instead of "lauryl maltoside" for comparing our result with the published result. Somehow fly biochemists use DDM more often than lauryl maltoside...
-* Figure 1 and Figure 2 need additional experiments and these will be done by Oct. 20 (antibodies are arriving). I'm pretty sure that Figure 1 will come out as planned. There could be minor changes. I'm not entirely sure about how Figure 2 will come out. I'm testing with antibodies for mammalian orthologs...
-* Supplementary figures are being made and these will be done by Oct. 15.
+
