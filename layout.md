@@ -2,4 +2,3 @@ abstract.md
 introduction.md
 Results_Tissue_enrichment_protein_solubilization__.md
 Discussion_The_physiology_of_insect__.md
-Methods_1_500_words_Fly__.md
