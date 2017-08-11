@@ -6,4 +6,3 @@ Methods_1_500_words_Fly__.md
 Figures_Figure_1_Tissue_enrichment__.md
 figures/Figure1real/Figure1real.png
 Ranking_by_MS_MS_Name__.md
-figures/Figure3(2)/Figure3(2).png
