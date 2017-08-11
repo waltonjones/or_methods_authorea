@@ -1,1 +1,1 @@
-Surveying the Orco interactome in adult Drosophila
+A novel mass spectrometry-based screening platform reveals the Orco interactome in Drosophila melanogaster
