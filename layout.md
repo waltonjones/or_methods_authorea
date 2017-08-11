@@ -1,3 +1,2 @@
 abstract.md
 introduction.md
-Results_Tissue_enrichment_protein_solubilization__.md
